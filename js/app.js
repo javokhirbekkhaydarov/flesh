@@ -62,3 +62,16 @@ console.log(number)
 ?using break keyword!
 
 */
+
+//! =======  question 7
+
+/* 
+* Which JavaScript statements will output true?
+
+1console.log(5 + 10 * 3 === 45);
+2console.log(2 ** (3 ** 2) === 512);
+3console.log(5 % 1 === 0);
+4console.log(8 + 8 / 2 + 2 === 10);
+
+? (5 + 10 * 3 === 45) and (8 + 8 / 2 + 2 === 10) these statiments true
+*/
