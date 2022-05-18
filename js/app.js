@@ -50,6 +50,15 @@ console.log(number)
  * 1,2 and 3 as strings in JavaScript?
  
  ?Array.from('123') , ["1" , "2" , "3"] , new Array("1","2","3")
- 
+
+
+*/
+
+//! =======  question 6
+
+/* 
+* How to exit out of a loop in JavaScript?
+
+?using break keyword!
 
 */
