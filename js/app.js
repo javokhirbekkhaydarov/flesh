@@ -195,3 +195,12 @@ while (noSucces) {
 ?localStorage.setItem("data", 42)
 
 */
+
+//! ===  question 21
+
+/* 
+* Which decorators are included in Angular?
+
+?i guess ngModule
+
+*/
