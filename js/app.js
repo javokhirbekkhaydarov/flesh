@@ -234,3 +234,11 @@ let str = '42'
 ?bracket notation and dot notation obj["prop"] const {prop} = obj 
 
 */
+
+//! ===  question 26
+
+/* 
+* Which array methods exist in JavaScript
+
+? join , push , map 
+*/
