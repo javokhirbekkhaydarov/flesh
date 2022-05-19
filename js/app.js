@@ -303,3 +303,21 @@ let str = '42'
 
 ?1,2,3,4
 */
+
+//! ===  question 34
+
+/* 
+* How can you configure the template of the component in Angular
+
+
+ )) i dont know angular
+*/
+
+//! ===  question 35
+
+/*
+ *Which method selects the first matching element in the document
+
+ ?querySelector
+
+ */
