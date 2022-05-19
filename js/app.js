@@ -261,3 +261,11 @@ let str = '42'
   console.log(arguments);
 };
 */
+
+//! ===  question 29
+/* 
+* Which function doesn't exist in JavaScript
+  
+
+?console.error
+*/
