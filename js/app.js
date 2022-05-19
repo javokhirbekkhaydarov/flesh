@@ -251,3 +251,13 @@ let str = '42'
 ?document.getElement("div") , document querySelector("p") ,  document.getElementClassName("class") ,  document.getElementByTagName("li") ,  document.getElementByid("id")
 
 */
+
+//! ===  question 28
+
+/* 
+* After what  JavaScript deelaration he f() call will throw an error?
+
+? const f = function g() {
+  console.log(arguments);
+};
+*/
