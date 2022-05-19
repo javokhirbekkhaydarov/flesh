@@ -278,3 +278,17 @@ let str = '42'
 ? some every 
 
 */
+
+//! ===  question 31
+
+/*
+ * Which results of the  following comparisons in JavaScript are true
+ ?true false true  true true
+
+ */
+
+console.log("211" > "21");
+console.log("A" > "a");
+console.log("Trie" > "Tree");
+console.log("2" > "12");
+console.log("Z" > "A");
