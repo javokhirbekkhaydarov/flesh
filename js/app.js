@@ -295,3 +295,11 @@ let str = '42'
 ? document.cookie = "username= Zefram Cochrane"
 
 */
+
+//! ===  question 33
+
+/* 
+* What is the output of the following JavaScript code?
+
+?1,2,3,4
+*/
