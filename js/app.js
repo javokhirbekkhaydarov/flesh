@@ -202,5 +202,6 @@ while (noSucces) {
 * Which decorators are included in Angular?
 
 ?i guess ngModule
-
 */
+
+//! ===  question 22
