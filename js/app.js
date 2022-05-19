@@ -75,3 +75,5 @@ console.log(number)
 
 ? (5 + 10 * 3 === 45) and (8 + 8 / 2 + 2 === 10) these statiments true
 */
+
+//! =======  question 9
