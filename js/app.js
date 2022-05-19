@@ -287,8 +287,11 @@ let str = '42'
 
  */
 
-console.log("211" > "21");
-console.log("A" > "a");
-console.log("Trie" > "Tree");
-console.log("2" > "12");
-console.log("Z" > "A");
+//! ===  question 32
+
+/* 
+*Which of the following is the correct syntax to create a cookie using JavaScript in a Browser?
+
+? document.cookie = "username= Zefram Cochrane"
+
+*/
