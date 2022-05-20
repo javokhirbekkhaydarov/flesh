@@ -397,3 +397,12 @@ console.log(b === e);
 
 ?this.setState({count: this.state.count + 1}) and this.setState("count" , 2)
 */
+
+//! ===  question 44
+
+/* 
+*What is the value of typeof undefined == typeof NULL in JavaScript?
+
+?true
+
+*/
