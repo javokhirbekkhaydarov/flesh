@@ -170,10 +170,10 @@ var obj = {
 
 */
 
-while (noSucces) {
-  tryAgain();
-  if (Dead) break;
-}
+// while (noSucces) {
+//   tryAgain();
+//   if (Dead) break;
+// }
 //! Javohirbek
 
 //! ===  question 19
@@ -328,5 +328,17 @@ let str = '42'
 *Which React methods exist in the life-cycle
 
  ?ComponentDidMount  , ComponentDidUpdate
- 
+
  */
+
+//! ===  question 37
+
+/* 
+* What is the output of the following TypeScript code?
+
+const a = 1;
+const b = "1"
+console.log(a==b)
+
+? i guess true
+*/
