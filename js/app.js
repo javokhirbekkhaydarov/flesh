@@ -406,3 +406,27 @@ console.log(b === e);
 ?true
 
 */
+
+//! ===  question 45
+
+/* 
+*What is the output of the following JavaScript code?
+
+const timer = (x) => {
+  return new Promise((y) => setTimeout() => y(x) , Math.random()*100);
+};
+*/
+
+//! ===  question 46
+
+/*
+ *Which JavaScript expressions will return true?
+ console.log(`42\n`.length == 4);
+ ?console.log("".length == 0); ✔
+ ?console.log(`42\n`.length == 3); ✔
+ console.log("string".length == undefined);
+ ?console.log("string".length == 6); ✔
+ console.log("".length == null);
+ console.log("string".length() == 6);
+ console.log("".length === 0);
+ */
