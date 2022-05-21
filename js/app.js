@@ -456,3 +456,11 @@ const all = Promise.all([timer(" first "), timer("second")]).then((data) =>
 
  ?5,5,5,5,5
  */
+
+//! ===  question 49
+
+/* 
+* How can you render child components inside some specific part of the parent componenet in React?
+?using props children
+
+*/
