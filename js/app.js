@@ -482,10 +482,17 @@ get("your clothes,  your boots and your motoreycle request");
 ? this code throws an error
  */
 
-//! ===  question 52
+//! ===  question 53
 
 /*
  *Which array methods return an array in JavaScript
 
  ?find()  and map()
  */
+
+//! ===  question 54
+/* 
+*Which of the following regular  expressions matches all of these substrings
+
+? / (a-zA-Z)+/
+*/
