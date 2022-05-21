@@ -413,7 +413,11 @@ console.log(b === e);
 *What is the output of the following JavaScript code?
 
 const timer = (x) => {
-  return new Promise((y) => setTimeout() => y(x) , Math.random()*100);
+  return new Promise((y) => setTimeout(() => y(x), Math.random() * 100));
+};
+const all = Promise.all([timer(" first "), timer("second")]).then((data) =>
+  console.log(data)
+);
 };
 */
 
@@ -430,3 +434,12 @@ const timer = (x) => {
  console.log("string".length() == 6);
  console.log("".length === 0);
  */
+
+//! ===  question 47
+
+/* 
+* How can you read CSS  styles of a DOM element?
+
+?getComputedStyle to get the element's styles
+
+*/
