@@ -519,3 +519,12 @@ let bound = add.bind(obj);
 console.log(add.call(obj, 3, 4, 5));
 console.log(add.apply(obj, arr));
 console.log(bound(3, 4, 5));
+
+//! ===  question 56
+
+/* 
+*Which ways to add a property for the existing object are correct in JavaScript
+
+? obj.a = 1 obj[a] =1
+
+*/
