@@ -528,3 +528,15 @@ console.log(bound(3, 4, 5));
 ? obj.a = 1 obj[a] =1
 
 */
+
+//! ===  question 57
+
+/* 
+ *What is the output of the following JavaScript code ?
+
+ 
+ console.log(str);
+ var str = "hi"
+ 
+ ?undefined
+ */
