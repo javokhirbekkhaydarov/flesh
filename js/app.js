@@ -481,3 +481,11 @@ get("your clothes,  your boots and your motoreycle request");
 
 ? this code throws an error
  */
+
+//! ===  question 52
+
+/*
+ *Which array methods return an array in JavaScript
+
+ ?find()  and map()
+ */
