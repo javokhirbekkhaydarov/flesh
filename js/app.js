@@ -501,11 +501,6 @@ get("your clothes,  your boots and your motoreycle request");
 
 /* 
 *What is the output of the following JavaScript code?
-
-?14,14,14
-
-*/
-
 let obj = {
   x: 2,
 };
@@ -519,6 +514,10 @@ let bound = add.bind(obj);
 console.log(add.call(obj, 3, 4, 5));
 console.log(add.apply(obj, arr));
 console.log(bound(3, 4, 5));
+
+?14,14,14
+
+*/
 
 //! ===  question 56
 
