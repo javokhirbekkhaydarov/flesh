@@ -464,3 +464,20 @@ const all = Promise.all([timer(" first "), timer("second")]).then((data) =>
 ?using props children
 
 */
+
+//! ===  question 51
+
+/*
+ * What is the output of the following JavaScript code?
+
+function request(name) {
+  console.log("I need " + name);
+}
+
+function get(items, callback) {
+  callback(items);
+}
+get("your clothes,  your boots and your motoreycle request");
+
+? this code throws an error
+ */
