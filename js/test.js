@@ -1,7 +1,12 @@
-// Question =>  What is the output of the following JavaScript code?
+//! =======  question 3
 
-let number = 0
-console.log(number++)
-console.log(++number)
-console.log(number)
-//! answear => 0 2 2
+
+//  What is the output of the following JavaScript code?
+(function getValue() {
+  let value;
+  console.log(value);
+  value = 42;
+  console.log(value);
+})();
+
+//  solved undifined and 42
