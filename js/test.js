@@ -1,7 +1,7 @@
-console.log(parseInt(`a123`));
-console.log(5/0);
-console.log(0/0);
-console.log(`Nan ** 2`);
-console.log(Infinity + 1);
+// Question =>  What is the output of the following JavaScript code?
 
-// this is question1 answear => parseInt(`a123`) and 0/0
+let number = 0
+console.log(number++)
+console.log(++number)
+console.log(number)
+//! answear => 0 2 2
