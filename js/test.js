@@ -1,9 +1,6 @@
+//! ===  question 13
+/*  
+* How to test if a string contains a substring in JavaScript
 
-//! =======  question 12
-
-/*
- * What would the following JavaScript code return?
-
-console.log(typeof typeof 1);
-?  code return string 
+?str includes(substr) and substr includes(str)
 */
