@@ -1,14 +1,9 @@
-//! ===  question 18
+//! ===  question 19
 
 /* 
-* Which code will return undefined after the followig JavaScript decloration
 
+* What syntac says that is the X class implements the Y interface in TypeScript
+
+? X inherits Y this is approximate
 
 */
-
-var obj = {
-  a: 1,
-  b: { c: 2 },
-};
-console.log(obj.c);
-console.log(obj?.a?.b?.c?.d);
