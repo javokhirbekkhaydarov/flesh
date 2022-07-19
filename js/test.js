@@ -1,8 +1,14 @@
-//! ===  question 16
+//! ===  question 18
 
-/*
- * How can an event handler be assigned to an element in a browser?
+/* 
+* Which code will return undefined after the followig JavaScript decloration
 
-?use addEventListener() method and HTML event handler attribute
 
- */
+*/
+
+var obj = {
+  a: 1,
+  b: { c: 2 },
+};
+console.log(obj.c);
+console.log(obj?.a?.b?.c?.d);
