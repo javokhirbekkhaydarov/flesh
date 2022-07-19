@@ -1,9 +1,14 @@
-
-//! ===  question 17
+//! ===  question 18
 
 /* 
-* How to extract "ring " part from the following JavaScript string?
+* Which code will return undefined after the followig JavaScript decloration
 
 
 */
-let str = "stringify" (str.slice(2,6));
+
+var obj = {
+  a: 1,
+  b: { c: 2 },
+};
+console.log(obj.c);
+console.log(obj?.a?.b?.c?.d);
