@@ -1,8 +1,8 @@
+//! ===  question 16
 
-//! ===  question 15
+/*
+ * How can an event handler be assigned to an element in a browser?
 
-/* 
- *What JavaScript keyword is used to access and call functions on an object's parent
+?use addEventListener() method and HTML event handler attribute
 
- ?super method
  */
