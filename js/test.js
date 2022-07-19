@@ -1,16 +1,8 @@
-//! =======  question 10
+//! =======  question 11
 
 /* 
-* How can you render a React element
+* Which types of components exist in React
 
+? Functional and Class Components
 
-?ReactDOM.render(
-  <h1>Hello world</h1>
-  ,
-  document.getElementById("root")
-); 
-and 
-? ReactDOM.render(React.createElement("h1", (), "Hello World")
-document.getElementById("root")
-)
 */
