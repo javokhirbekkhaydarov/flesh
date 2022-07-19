@@ -1,8 +1,9 @@
-//! ===  question 16
 
-/*
- * How can an event handler be assigned to an element in a browser?
+//! ===  question 17
 
-?use addEventListener() method and HTML event handler attribute
+/* 
+* How to extract "ring " part from the following JavaScript string?
 
- */
+
+*/
+let str = "stringify" (str.slice(2,6));
