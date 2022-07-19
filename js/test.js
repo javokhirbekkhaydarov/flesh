@@ -1,10 +1,16 @@
+//! =======  question 10
+
 /* 
-* Which JavaScript statements will output true?
+* How can you render a React element
 
-? (5 + 10 * 3 === 45) and (5 % 1 === 0) these statiments true
+
+?ReactDOM.render(
+  <h1>Hello world</h1>
+  ,
+  document.getElementById("root")
+); 
+and 
+? ReactDOM.render(React.createElement("h1", (), "Hello World")
+document.getElementById("root")
+)
 */
-
-console.log(5 + 10 * 3 === 45);
-console.log(2 ** (3 ** 2) === 512);
-console.log(5 % 1 === 0);
-console.log(8 + 8 / 2 + 2 === 10);
