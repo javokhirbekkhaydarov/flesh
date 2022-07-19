@@ -1,12 +1,8 @@
-//! =======  question 3
+//! =======  question 4
 
+/* 
+* What method allows you to add an attribute to a DOM element?
 
-//  What is the output of the following JavaScript code?
-(function getValue() {
-  let value;
-  console.log(value);
-  value = 42;
-  console.log(value);
-})();
+ ?setAttribute
 
-//  solved undifined and 42
+*/
