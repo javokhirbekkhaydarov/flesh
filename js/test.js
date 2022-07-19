@@ -4,6 +4,6 @@
 /*
  * What would the following JavaScript code return?
 
+console.log(typeof typeof 1);
 ?  code return string 
 */
-console.log(typeof typeof 1);
