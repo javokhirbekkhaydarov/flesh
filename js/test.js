@@ -1,8 +1,9 @@
-//! =======  question 11
 
-/* 
-* Which types of components exist in React
+//! =======  question 12
 
-? Functional and Class Components
+/*
+ * What would the following JavaScript code return?
 
+?  code return string 
 */
+console.log(typeof typeof 1);
