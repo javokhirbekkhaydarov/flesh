@@ -1,8 +1,9 @@
-//! ===  question 35
 
-/*
- *Which method selects the first matching element in the document
+//! ===  question 36
 
- ?querySelector()
+/* 
+*Which React methods exist in the life-cycle
+
+ ?ComponentDidMount  , ComponentDidUpdate
 
  */
