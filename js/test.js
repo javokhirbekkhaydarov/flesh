@@ -1,19 +1,7 @@
-//! ===  question 48
+//! ===  question 49
 
-/*
- *What is the output of the folowing JavaScript code
- for (var i = 0; i < 5; i++) {
-   setTimeout(function () {
-     console.log(i);
-   }, i * 1000);
- }
+/* 
+* How can you render child components inside some specific part of the parent componenet in React?
+?using props children
 
- ?5,5,5,5,5
- */
-
- for (var i = 0; i < 5; i++) {
-    setTimeout(function () {
-      console.log(i);
-    }, i * 1000);
-  }
- 
+*/
