@@ -1,21 +1,17 @@
-//! ===  question 45
 
-/* 
-*What is the output of the following JavaScript code?
+//! ===  question 46
 
-const timer = (x) => {
-  return new Promise((y) => setTimeout(() => y(x), Math.random() * 100));
-};
-const all = Promise.all([timer(" first "), timer("second")]).then((data) =>
-  console.log(data)
-);
-};
-*/
-
-const timer = (x) => {
-  return new Promise((y) => setTimeout(() => y(x), Math.random() * 100));
-};
-const all = Promise.all([timer(" first "), timer("second")]).then((data) =>
-  console.log(data)
-);
-//!  [ ' first ', 'second' ]
+/*
+ *Which JavaScript expressions will return true?
+ console.log(`42\n`.length == 4);
+ ?console.log("".length == 0); ✔
+ ?console.log(`42\n`.length == 3); ✔
+ console.log("string".length == undefined);
+ ?console.log("string".length == 6); ✔
+ console.log("".length == null);
+ console.log("string".length() == 6);
+ console.log("".length === 0);
+ */
+ console.log("".length == 0); 
+ console.log(`42\n`.length == 3); 
+ console.log("string".length == 6); 
