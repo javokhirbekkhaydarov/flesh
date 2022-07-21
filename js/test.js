@@ -1,12 +1,11 @@
 
-//! ===  question 22
+//! ===  question 23
 
 /* 
-* Which ways to create a string are valid in JavaScript
-
-let str = "42"
-let str = `42`
-let str = '42'
-
+* Which of the following quantifiers means  zero to five occurrences in regular expressions?
+[0 ..5]
+[0<5]
+[0<5]
+[0-5]
 
 */
