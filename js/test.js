@@ -1,8 +1,8 @@
-//! ===  question 41
+//! ===  question 42
 
 /* 
-* How long is the data available in localStorage in a browser?
+ * What are correct ways to update the internal state of the component in React
 
-?forever, the data doesn't get lost
-
+?this.setState({count: this.state.count + 1}) 
+?and this.setState("count" , 2)
 */
