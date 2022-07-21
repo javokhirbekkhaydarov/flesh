@@ -1,11 +1,9 @@
-//! ===  question 37
+
+//! ===  question 38
 
 /* 
-* What is the output of the following TypeScript code?
+* What method do we use to add an event listener in JavaScript being executed in a browser?
 
-const a = 1;
-const b = "1"
-console.log(a==b)
+?element.addEventListener
 
-? error
 */
