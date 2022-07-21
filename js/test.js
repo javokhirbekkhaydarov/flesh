@@ -1,8 +1,9 @@
-//! ===  question 42
+//! =====  question 44
 
 /* 
- * What are correct ways to update the internal state of the component in React
+*What is the value of typeof undefined == typeof NULL in JavaScript?
 
-?this.setState({count: this.state.count + 1}) 
-?and this.setState("count" , 2)
+?false
+
 */
+console.log(typeof undefined == typeof null);
