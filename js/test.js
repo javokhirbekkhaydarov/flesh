@@ -1,9 +1,13 @@
-
-//! ===  question 27
+//! ===  question 28
 
 /* 
-* How can you select an existing DOM element?
+* After what  JavaScript declaration he f() call will throw an error?
 
-?document.getElement("div") , document querySelector("p") ,  document.getElementClassName("class") ,  document.getElementByTagName("li") ,  document.getElementByid("id")
-
+? const f = function g() {
+  console.log(arguments);
+};
 */
+
+const f = function g() {
+  console.log(arguments);
+};
