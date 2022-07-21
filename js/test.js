@@ -1,10 +1,16 @@
-//! =======  question 9
+//! =======  question 10
 
 /* 
-* Which method will modify the original array in JavaScript
+* How can you render a React element
 
 
+?ReactDOM.render(
+  <h1>Hello world</h1>
+  ,
+  document.getElementById("root")
+); 
+and 
+? ReactDOM.render(React.createElement("h1", (), "Hello World")
+document.getElementById("root")
+)
 */
-var a = [1, 2, 3];
-a.splice(1,2,3)
-console.log(a);
