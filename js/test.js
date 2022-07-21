@@ -1,10 +1,13 @@
-//! ===  question 20
+
+//! ===  question 21
 
 /* 
+* Which decorators are included in Angular?
 
-* How to store data localStorage in a browser?
-
-
-console.log(localStorage.setItem("data", 42));
+?i guess There are four types of decorators in Angular:
+Class Decorators.
+Property Decorators.
+Method Decorators.
+Parameter Decorators.
 */
 
