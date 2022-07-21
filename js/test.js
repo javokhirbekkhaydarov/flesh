@@ -1,8 +1,19 @@
-//! ===  question 47
+//! ===  question 48
 
-/* 
-* How can you read CSS  styles of a DOM element?
+/*
+ *What is the output of the folowing JavaScript code
+ for (var i = 0; i < 5; i++) {
+   setTimeout(function () {
+     console.log(i);
+   }, i * 1000);
+ }
 
-?window.getComputedStyle(document.body)
+ ?5,5,5,5,5
+ */
 
-*/
+ for (var i = 0; i < 5; i++) {
+    setTimeout(function () {
+      console.log(i);
+    }, i * 1000);
+  }
+ 
