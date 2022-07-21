@@ -1,9 +1,11 @@
-
-//! ===  question 36
+//! ===  question 37
 
 /* 
-*Which React methods exist in the life-cycle
+* What is the output of the following TypeScript code?
 
- ?ComponentDidMount  , ComponentDidUpdate
+const a = 1;
+const b = "1"
+console.log(a==b)
 
- */
+? error
+*/
