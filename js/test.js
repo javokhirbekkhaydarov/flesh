@@ -1,7 +1,12 @@
-//! ===  question 49
+//! ===  question 50
 
 /* 
-* How can you render child components inside some specific part of the parent componenet in React?
-?using props children
+* What is the output of the following TypeScript code?
 
+
+class Person {
+    constructor(public name:string) {}
+}
+console.log(new Person('River').name)
+?River
 */
