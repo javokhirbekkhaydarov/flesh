@@ -1,11 +1,7 @@
-
-//! ===  question 23
-
+//! ===  question 25
 /* 
-* Which of the following quantifiers means  zero to five occurrences in regular expressions?
-[0 ..5]
-[0<5]
-[0<5]
-[0-5]
+* What are the ways to acces obj's proporty named prop in JavaScript?
+
+?bracket notation and dot notation obj["prop"] const {prop} = obj 
 
 */
