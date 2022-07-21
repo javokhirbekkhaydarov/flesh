@@ -1,9 +1,21 @@
-//! =====  question 44
+//! ===  question 45
 
 /* 
-*What is the value of typeof undefined == typeof NULL in JavaScript?
+*What is the output of the following JavaScript code?
 
-?false
-
+const timer = (x) => {
+  return new Promise((y) => setTimeout(() => y(x), Math.random() * 100));
+};
+const all = Promise.all([timer(" first "), timer("second")]).then((data) =>
+  console.log(data)
+);
+};
 */
-console.log(typeof undefined == typeof null);
+
+const timer = (x) => {
+  return new Promise((y) => setTimeout(() => y(x), Math.random() * 100));
+};
+const all = Promise.all([timer(" first "), timer("second")]).then((data) =>
+  console.log(data)
+);
+//!  [ ' first ', 'second' ]
