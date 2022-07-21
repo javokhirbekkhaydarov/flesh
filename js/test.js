@@ -1,9 +1,8 @@
-//! ===  question 19
+//! ===  question 30
 
 /* 
+* Which  array methods return a boolean value in JavaScript
 
-* What syntac says that is the X class implements the Y interface in TypeScript
-
-? X inherits Y this is approximate
+? some every 
 
 */
