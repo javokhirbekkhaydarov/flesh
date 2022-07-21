@@ -1,21 +1,8 @@
-//! ===  question 40
-/*
- * What is the output of the following JavaScript code?
+//! ===  question 41
 
-let a = 3;
-let b = new Number(3);
+/* 
+* How long is the data available in localStorage in a browser?
 
-let e = 3;
-console.log(a == b);
-console.log(a === b);
-console.log(b === e);
+?forever, the data doesn't get lost
 
-? true false false
- */
-let a = 3;
-let b = new Number(3);
-
-let e = 3;
-console.log(a == b);
-console.log(a === b);
-console.log(b === e);
+*/
