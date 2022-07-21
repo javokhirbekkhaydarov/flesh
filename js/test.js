@@ -1,9 +1,14 @@
 
-//! ===  question 38
+//! ===  question 39
 
 /* 
-* What method do we use to add an event listener in JavaScript being executed in a browser?
+* When will the if body be executed in JavaScript
 
-?element.addEventListener
+?if (condition) {
+   statement1
+} else {
+   statement2
+}
+ 
 
 */
