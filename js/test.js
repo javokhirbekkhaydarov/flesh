@@ -1,7 +1,8 @@
-//! ===  question 29
-/* 
-* Which function doesn't exist in JavaScript
-  
+//! ===  question 30
 
-?console.write
+/* 
+* Which  array methods return a boolean value in JavaScript
+
+? some every 
+
 */
