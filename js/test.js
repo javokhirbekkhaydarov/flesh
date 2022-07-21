@@ -1,13 +1,12 @@
 
-//! ===  question 21
+//! ===  question 22
 
 /* 
-* Which decorators are included in Angular?
+* Which ways to create a string are valid in JavaScript
 
-?i guess There are four types of decorators in Angular:
-Class Decorators.
-Property Decorators.
-Method Decorators.
-Parameter Decorators.
+let str = "42"
+let str = `42`
+let str = '42'
+
+
 */
-
