@@ -1,31 +1,8 @@
-//! ===  question 31
+//! ===  question 32
 
-/*
- * Which results of the  following comparisons in JavaScript are true
- ?true false true  true true
+/* 
+*Which of the following is the correct syntax to create a cookie using JavaScript in a Browser?
 
-const num = 211 ;
-const num2 = 21;
-console.log(num >= num2);  =======> true
-!
-const num = `A`;
-const num2 = `a`;
-console.log(num >= num2); =======> false
-!
-const num = `Trie`;
-const num2 = `Tree`;
-console.log(num >= num2); =====> ture
-!
-const num = 2;
-const num2 = 12;
-console.log(num >= num2);   =====>  false;
-!
-const num = `Z`;
-const num2 = `A`;
-console.log(num >= num2); =====> true
+? document.cookie = "username= Zefram Cochrane"
 
 */
-
-const num = `Z`;
-const num2 = `A`;
-console.log(num >= num2);
