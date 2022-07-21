@@ -1,14 +1,21 @@
+//! ===  question 40
+/*
+ * What is the output of the following JavaScript code?
 
-//! ===  question 39
+let a = 3;
+let b = new Number(3);
 
-/* 
-* When will the if body be executed in JavaScript
+let e = 3;
+console.log(a == b);
+console.log(a === b);
+console.log(b === e);
 
-?if (condition) {
-   statement1
-} else {
-   statement2
-}
- 
+? true false false
+ */
+let a = 3;
+let b = new Number(3);
 
-*/
+let e = 3;
+console.log(a == b);
+console.log(a === b);
+console.log(b === e);
