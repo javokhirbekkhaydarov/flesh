@@ -3,5 +3,5 @@
 /* 
 * Which array methods exist in JavaScript
 
-? join , push , map 
+? join , push , map  , foreach
 */
