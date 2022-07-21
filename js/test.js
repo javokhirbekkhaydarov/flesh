@@ -1,7 +1,7 @@
-//! ===  question 25
+//! ===  question 26
+
 /* 
-* What are the ways to acces obj's proporty named prop in JavaScript?
+* Which array methods exist in JavaScript
 
-?bracket notation and dot notation obj["prop"] const {prop} = obj 
-
+? join , push , map 
 */
