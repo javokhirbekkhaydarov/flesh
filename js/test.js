@@ -1,7 +1,9 @@
-//! ===  question 26
+
+//! ===  question 27
 
 /* 
-* Which array methods exist in JavaScript
+* How can you select an existing DOM element?
 
-? join , push , map  , foreach
+?document.getElement("div") , document querySelector("p") ,  document.getElementClassName("class") ,  document.getElementByTagName("li") ,  document.getElementByid("id")
+
 */
