@@ -1,17 +1,8 @@
+//! ===  question 47
 
-//! ===  question 46
+/* 
+* How can you read CSS  styles of a DOM element?
 
-/*
- *Which JavaScript expressions will return true?
- console.log(`42\n`.length == 4);
- ?console.log("".length == 0); ✔
- ?console.log(`42\n`.length == 3); ✔
- console.log("string".length == undefined);
- ?console.log("string".length == 6); ✔
- console.log("".length == null);
- console.log("string".length() == 6);
- console.log("".length === 0);
- */
- console.log("".length == 0); 
- console.log(`42\n`.length == 3); 
- console.log("string".length == 6); 
+?window.getComputedStyle(document.body)
+
+*/
