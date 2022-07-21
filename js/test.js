@@ -1,13 +1,7 @@
-//! ===  question 28
-
+//! ===  question 29
 /* 
-* After what  JavaScript declaration he f() call will throw an error?
+* Which function doesn't exist in JavaScript
+  
 
-? const f = function g() {
-  console.log(arguments);
-};
+?console.write
 */
-
-const f = function g() {
-  console.log(arguments);
-};
