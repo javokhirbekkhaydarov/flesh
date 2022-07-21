@@ -1,9 +1,10 @@
-//! ===  question 19
+//! ===  question 20
 
 /* 
 
-* What syntac says that is the X class implements the Y interface in TypeScript
+* How to store data localStorage in a browser?
 
-? X inherits Y this is approximate
 
+console.log(localStorage.setItem("data", 42));
 */
+
