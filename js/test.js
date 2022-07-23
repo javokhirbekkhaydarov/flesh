@@ -1,7 +1,24 @@
-//! ===  question 49
+/*
+ * What is the output of the following JavaScript code?
 
-/* 
-* How can you render child components inside some specific part of the parent componenet in React?
-?using props children
+function request(name) {
+  console.log("I need " + name);
+}
 
-*/
+function get(items, callback) {
+  callback(items);
+}
+get("your clothes,  your boots and your motoreycle request");
+
+? this code throws an error
+ */
+
+function request(name) {
+    console.log("I need " + name);
+  }
+  
+  function get(items, callback) {
+    callback(items);
+  }
+ console.log( get("your clothes,  your boots and your motoreycle request"));
+  
