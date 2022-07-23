@@ -1,27 +1,5 @@
-//! ===  question 51
+//! ===  question 52
 
-/*
- * What is the output of the following JavaScript code?
+//* If the class constructor in TypeScript is declared as protected , then
 
-function request(name) {
-  console.log("I need " + name);
-}
-
-function get(items, callback) {
-  callback(items);
-}
-get("your clothes,  your boots and your motoreycle request");
-
-? this code throws an error
- */
-
-function request(name) {
-  console.log("I need " + name);
-}
-
-function get(items, callback) {
-  callback(items);
-}
-
-console.log(get`laptop` , request);
-//? throw error
+//its impossible
