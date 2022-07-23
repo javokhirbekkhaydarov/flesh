@@ -1,9 +1,12 @@
-//! ===  question 56
+
+//! ===  question 57
 
 /* 
-*Which ways to add a property for the existing object are correct in JavaScript
+ *What is the output of the following JavaScript code ?
 
-? obj.a = 1 obj[a] =1
-
-*/
  
+ console.log(str);
+ var str = "hi"
+ 
+ ?undefined
+ */
