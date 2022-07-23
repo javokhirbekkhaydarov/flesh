@@ -1,9 +1,14 @@
-//! ===  question 58
+//! ===  question 59
 
 /* 
-*Which ways to create  a string are valid in JavaScript
+*What is the output of the following TypeScript code?
 
-? let str = 42.toString
- ? let str = '42' , 
- ? let str = "42"
+class Counter {
+  static count: number = 0;
+}
+const counter1 = new Counter();const counter2 = new Counter();
+counter1.count = 1;
+console.log(counter1.count, counter2.count)
+
+? 1 ,  undefined
 */
