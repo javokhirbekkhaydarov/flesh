@@ -1,7 +1,7 @@
 /* 
 * Which JavaScript statements will output true?
 
-? (5 + 10 * 3 === 45) and (5 % 1 === 0) these statiments true
+?(2 ** (3 ** 2) === 512) and (5 % 1 === 0) these statiments true
 */
 
 console.log(5 + 10 * 3 === 45);
