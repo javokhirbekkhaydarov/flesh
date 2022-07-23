@@ -1,12 +1,9 @@
-
-//! ===  question 57
+//! ===  question 58
 
 /* 
- *What is the output of the following JavaScript code ?
+*Which ways to create  a string are valid in JavaScript
 
- 
- console.log(str);
- var str = "hi"
- 
- ?undefined
- */
+? let str = 42.toString
+ ? let str = '42' , 
+ ? let str = "42"
+*/
