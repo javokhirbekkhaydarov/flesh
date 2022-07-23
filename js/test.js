@@ -1,5 +1,7 @@
-//! ===  question 52
+//! ===  question 53
 
-//* If the class constructor in TypeScript is declared as protected , then
+/*
+ *Which array methods return an array in JavaScript
 
-//its impossible
+ ?find()  and map()
+ */
