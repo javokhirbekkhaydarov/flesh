@@ -5,6 +5,6 @@
 * How to store data localStorage in a browser?
 
 
-console.log(localStorage.setItem("data", 42));
+?console.log(localStorage.setItem("data", 42));
 */
 
